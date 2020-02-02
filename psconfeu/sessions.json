@@ -1,15 +1,5 @@
 [
     {
-        "Speaker":  "PowerShell Team",
-        "Name":  "MSFT3",
-        "Description":  "",
-        "Tags":  "",
-        "Starts":  "1899-12-30 00:00:00",
-        "Ends":  "1899-12-30 00:00:00",
-        "Track":  "",
-        "Language":  ""
-    },
-    {
         "Speaker":  "Damien Caro",
         "Name":  "Azure PowerShell - what’s new and what’s next",
         "Description":  "After this session you will understand the Azure PowerShell strategy and roadmap",

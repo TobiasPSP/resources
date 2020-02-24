@@ -1,10 +1,20 @@
 [
     {
-        "Speaker":  "Tobias Weltner, Jeffrey Snover",
-        "Name":  "Opening Ceremony and Keynote",
+        "Speaker":  "Tobias Weltner",
+        "Name":  "Opening Ceremony",
         "Description":  "Kicking off this conference in a joined opening ceremony followed by the keynote.",
         "Tags":  "Introduction, Future, PowerShell",
         "Starts":  "2020-06-02 09:00:00",
+        "Ends":  "2020-06-02 09:30:00",
+        "Track":  "Leibniz Hall",
+        "Language":  "English"
+    },
+    {
+        "Speaker":  "Joey Aiello, Jeffrey Snover",
+        "Name":  "Keynote: State of the Shell",
+        "Description":  "Taking a look at where Powershell stands and is heading.",
+        "Tags":  "PowerShell",
+        "Starts":  "2020-06-02 09:30:00",
         "Ends":  "2020-06-02 10:30:00",
         "Track":  "Leibniz Hall",
         "Language":  "English"
@@ -70,9 +80,9 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "PowerShell Team",
-        "Name":  "MSFT1",
-        "Description":  "",
+        "Speaker":  "Sydney Smith",
+        "Name":  "Notebooks + VS Code",
+        "Description":  "Learn how to use VSCode with PowerShell 7, and also how to use Jupyter Notebooks",
         "Tags":  "",
         "Starts":  "2020-06-02 14:15:00",
         "Ends":  "2020-06-02 15:15:00",
@@ -190,16 +200,6 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "Jan Egil Ring",
-        "Name":  "Group Policy - Cloud edition",
-        "Description":  "After listening, you will be able to understand the differences between Group Policy and Azure Policy Guest Configuration.",
-        "Tags":  "Cloud, DSC, Security, Defense",
-        "Starts":  "2020-06-03 09:45:00",
-        "Ends":  "2020-06-03 10:45:00",
-        "Track":  "Red Room",
-        "Language":  "English"
-    },
-    {
         "Speaker":  "Jared Atkinson",
         "Name":  "Modeling Security Event Behavior with PsReflect-Functions",
         "Description":  "Learn to create robust detections for hacker techniques using PSReflect-Functions",
@@ -207,6 +207,16 @@
         "Starts":  "2020-06-03 09:45:00",
         "Ends":  "2020-06-03 10:45:00",
         "Track":  "Blue Room",
+        "Language":  "English"
+    },
+    {
+        "Speaker":  "Jan Egil Ring",
+        "Name":  "Group Policy - Cloud edition",
+        "Description":  "After listening, you will be able to understand the differences between Group Policy and Azure Policy Guest Configuration.",
+        "Tags":  "Cloud, DSC, Security, Defense",
+        "Starts":  "2020-06-03 09:45:00",
+        "Ends":  "2020-06-03 10:45:00",
+        "Track":  "Red Room",
         "Language":  "English"
     },
     {
@@ -250,13 +260,13 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "James O\u0027Neill",
-        "Name":  "PowerShell parallelism. Picking patterns for performance.",
-        "Description":  "If you haven\u0027t looked at multi-threading in PowerShell this is the session to bring you up to speed.",
-        "Tags":  "Optimization, Multithreading, Best Practice",
+        "Speaker":  "Walter Legowski",
+        "Name":  "The King is Dead, Long Live the King",
+        "Description":  "Evolution of PowerShell Security and latest trends in Corporate Post-Exploitation Tradecraft...",
+        "Tags":  "Security, Attack",
         "Starts":  "2020-06-03 13:00:00",
         "Ends":  "2020-06-03 14:00:00",
-        "Track":  "Leibniz Hall",
+        "Track":  "Blue Room",
         "Language":  "English"
     },
     {
@@ -270,13 +280,13 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "Walter Legowski",
-        "Name":  "The King is Dead, Long Live the King",
-        "Description":  "Evolution of PowerShell Security and latest trends in Corporate Post-Exploitation Tradecraft...",
-        "Tags":  "Security, Attack",
+        "Speaker":  "James O\u0027Neill",
+        "Name":  "PowerShell parallelism. Picking patterns for performance.",
+        "Description":  "If you haven\u0027t looked at multi-threading in PowerShell this is the session to bring you up to speed.",
+        "Tags":  "Optimization, Multithreading, Best Practice",
         "Starts":  "2020-06-03 13:00:00",
         "Ends":  "2020-06-03 14:00:00",
-        "Track":  "Blue Room",
+        "Track":  "Leibniz Hall",
         "Language":  "English"
     },
     {
@@ -290,6 +300,16 @@
         "Language":  "English"
     },
     {
+        "Speaker":  "Ben Reader",
+        "Name":  "Automated Application Testing: How to make Azure Spot VMs and DevOps Pipelines do the work for you!",
+        "Description":  "In this session I will demonstrate how to build an Azure DevOps pipeline to assist in application deployment testing. You will learn how to use PowerShell remoting to interact with Azure Spot VMs. You will also gain a deep understanding of the Win32 Content Creation tool used to package applications for Intune.",
+        "Tags":  "Cloud, Virtualization, Remoting",
+        "Starts":  "2020-06-03 14:15:00",
+        "Ends":  "2020-06-03 15:15:00",
+        "Track":  "Red Room",
+        "Language":  "English"
+    },
+    {
         "Speaker":  "Evgenij Smirnov",
         "Name":  "Going native: A non-developer\u0027s tale",
         "Description":  "After this talk, you will be more prepared to extend your PowerShell-fu towards native platform functionality and hopefully forewarned about some pitfalls to avoid and appropriate moments to give up and look for other ways.",
@@ -300,13 +320,13 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "Ben Reader",
-        "Name":  "Automated Application Testing: How to make Azure Spot VMs and DevOps Pipelines do the work for you!",
-        "Description":  "In this session I will demonstrate how to build an Azure DevOps pipeline to assist in application deployment testing. You will learn how to use PowerShell remoting to interact with Azure Spot VMs. You will also gain a deep understanding of the Win32 Content Creation tool used to package applications for Intune.",
-        "Tags":  "Cloud, Virtualization, Remoting",
-        "Starts":  "2020-06-03 14:15:00",
-        "Ends":  "2020-06-03 15:15:00",
-        "Track":  "Red Room",
+        "Speaker":  "Graziella Iezzi",
+        "Name":  "Don\u0027t be scared of calling APIs!",
+        "Description":  "After you watched this you will know how to approach APIs from different web applications and how easy it is to get started using them with PowerShell.",
+        "Tags":  "PowerShell, .NET Framework, Introduction, Security",
+        "Starts":  "2020-06-03 15:30:00",
+        "Ends":  "2020-06-03 16:30:00",
+        "Track":  "Leibniz Hall",
         "Language":  "English"
     },
     {
@@ -330,24 +350,14 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "Graziella Iezzi",
-        "Name":  "Don\u0027t be scared of calling APIs!",
-        "Description":  "After you watched this you will know how to approach APIs from different web applications and how easy it is to get started using them with PowerShell.",
-        "Tags":  "PowerShell, .NET Framework, Introduction, Security",
-        "Starts":  "2020-06-03 15:30:00",
-        "Ends":  "2020-06-03 16:30:00",
-        "Track":  "Leibniz Hall",
-        "Language":  "English"
-    },
-    {
-        "Speaker":  "PowerShell Team",
-        "Name":  "MSFT5",
-        "Description":  "",
-        "Tags":  "",
+        "Speaker":  "Nestori Syynimaa",
+        "Name":  "Abusing Azure Active Directory: Who would you like to be today?",
+        "Description":  "After  the session, you understand how easy it is to abuse Azure AD with AADInternals PowerShell module",
+        "Tags":  "Security, Cloud, Active Directory, Attack",
         "Starts":  "2020-06-03 16:45:00",
         "Ends":  "2020-06-03 17:45:00",
-        "Track":  "Red Room",
-        "Language":  ""
+        "Track":  "Blue Room",
+        "Language":  "English"
     },
     {
         "Speaker":  "Przemysław Kłys",
@@ -360,24 +370,14 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "Nestori Syynimaa",
-        "Name":  "Abusing Azure Active Directory: Who would you like to be today?",
-        "Description":  "After  the session, you understand how easy it is to abuse Azure AD with AADInternals PowerShell module",
-        "Tags":  "Security, Cloud, Active Directory, Attack",
+        "Speaker":  "Steve Lee, Jason Helmick",
+        "Name":  "PowerShell 7.1: A Next Gen Shell",
+        "Description":  "Take a look at shell improvements in PowerShell 76",
+        "Tags":  "PowerShell, Future",
         "Starts":  "2020-06-03 16:45:00",
         "Ends":  "2020-06-03 17:45:00",
-        "Track":  "Blue Room",
-        "Language":  "English"
-    },
-    {
-        "Speaker":  "PowerShell Team",
-        "Name":  "MSFT4",
-        "Description":  "",
-        "Tags":  "",
-        "Starts":  "2020-06-04 08:30:00",
-        "Ends":  "2020-06-04 09:30:00",
         "Track":  "Red Room",
-        "Language":  ""
+        "Language":  "English"
     },
     {
         "Speaker":  "Felix Becker",
@@ -390,32 +390,22 @@
         "Language":  "English"
     },
     {
+        "Speaker":  "Rob Holt",
+        "Name":  "Module System Deep-Dive",
+        "Description":  "Take a in-depth look at the PowerShell module system.",
+        "Tags":  "PowerShell",
+        "Starts":  "2020-06-04 08:30:00",
+        "Ends":  "2020-06-04 09:30:00",
+        "Track":  "Red Room",
+        "Language":  "English"
+    },
+    {
         "Speaker":  "Daniel Silva",
         "Name":  "C# for PowerShellers - Why is it any good for you?",
         "Description":  "After attending to this session, you will be able to better understand C# code and adapt your powershell scripts",
         "Tags":  "C#, .NET Framework, PowerShell, Introduction",
         "Starts":  "2020-06-04 08:30:00",
         "Ends":  "2020-06-04 09:30:00",
-        "Track":  "Leibniz Hall",
-        "Language":  "English"
-    },
-    {
-        "Speaker":  "Luc Dekens",
-        "Name":  "Visualising your environment.",
-        "Description":  "Visualise your environment",
-        "Tags":  "Tools, Data Export, Reporting",
-        "Starts":  "2020-06-04 09:45:00",
-        "Ends":  "2020-06-04 10:45:00",
-        "Track":  "Blue Room",
-        "Language":  "English"
-    },
-    {
-        "Speaker":  "stephane van gulick",
-        "Name":  "My prefered design patterns (Applied to the powershell language).",
-        "Description":  "If you know the basics of classes, this ",
-        "Tags":  "PowerShell, Best Practice",
-        "Starts":  "2020-06-04 09:45:00",
-        "Ends":  "2020-06-04 10:45:00",
         "Track":  "Leibniz Hall",
         "Language":  "English"
     },
@@ -430,23 +420,23 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "Jared Atkinson",
-        "Name":  "Introducing the Funnel of Fidelity",
-        "Description":  "After this session, you will have an idea of how to approach the complexities of enterprise detection and response.",
-        "Tags":  "Security, Best Practice, Defense",
-        "Starts":  "2020-06-04 11:00:00",
-        "Ends":  "2020-06-04 12:00:00",
-        "Track":  "Blue Room",
+        "Speaker":  "stephane van gulick",
+        "Name":  "My prefered design patterns (Applied to the powershell language).",
+        "Description":  "If you know the basics of classes, this ",
+        "Tags":  "PowerShell, Best Practice",
+        "Starts":  "2020-06-04 09:45:00",
+        "Ends":  "2020-06-04 10:45:00",
+        "Track":  "Leibniz Hall",
         "Language":  "English"
     },
     {
-        "Speaker":  "Brett Miller",
-        "Name":  "Event Driven IT Operations with Azure Functions \u0026 PowerShell",
-        "Description":  "This session will introduce you to some more advanced use cases of Azure Functions, how to leverage serverless technology as an IT Ops person so you can concentrate on the things that matter.",
-        "Tags":  "Cloud, PowerShell Azure Functions",
-        "Starts":  "2020-06-04 11:00:00",
-        "Ends":  "2020-06-04 12:00:00",
-        "Track":  "Red Room",
+        "Speaker":  "Luc Dekens",
+        "Name":  "Visualising your environment.",
+        "Description":  "Visualise your environment",
+        "Tags":  "Tools, Data Export, Reporting",
+        "Starts":  "2020-06-04 09:45:00",
+        "Ends":  "2020-06-04 10:45:00",
+        "Track":  "Blue Room",
         "Language":  "English"
     },
     {
@@ -460,6 +450,26 @@
         "Language":  "English"
     },
     {
+        "Speaker":  "Brett Miller",
+        "Name":  "Event Driven IT Operations with Azure Functions \u0026 PowerShell",
+        "Description":  "This session will introduce you to some more advanced use cases of Azure Functions, how to leverage serverless technology as an IT Ops person so you can concentrate on the things that matter.",
+        "Tags":  "Cloud, PowerShell Azure Functions",
+        "Starts":  "2020-06-04 11:00:00",
+        "Ends":  "2020-06-04 12:00:00",
+        "Track":  "Red Room",
+        "Language":  "English"
+    },
+    {
+        "Speaker":  "Jared Atkinson",
+        "Name":  "Introducing the Funnel of Fidelity",
+        "Description":  "After this session, you will have an idea of how to approach the complexities of enterprise detection and response.",
+        "Tags":  "Security, Best Practice, Defense",
+        "Starts":  "2020-06-04 11:00:00",
+        "Ends":  "2020-06-04 12:00:00",
+        "Track":  "Blue Room",
+        "Language":  "English"
+    },
+    {
         "Speaker":  "Jan Egil Ring",
         "Name":  "Azure Functions in a hybrid world",
         "Description":  "After you watched this session, you will be able to use Azure Functions to automate your on-premises environments with PowerShell.",
@@ -467,16 +477,6 @@
         "Starts":  "2020-06-04 13:00:00",
         "Ends":  "2020-06-04 14:00:00",
         "Track":  "Red Room",
-        "Language":  "English"
-    },
-    {
-        "Speaker":  "Adam Driscoll",
-        "Name":  "Building a Custom PowerShell Host",
-        "Description":  "After listening, you\u0027ll be able to build a custom PowerShell host. ",
-        "Tags":  "PowerShell, .NET Framework, C#, Developer",
-        "Starts":  "2020-06-04 13:00:00",
-        "Ends":  "2020-06-04 14:00:00",
-        "Track":  "Leibniz Hall",
         "Language":  "English"
     },
     {
@@ -490,13 +490,23 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "Jan-Henrik Damaschke",
-        "Name":  "Bringing classes and runspaces together - Async logging in PowerShell",
-        "Description":  "After you watched this session you will have an understanding of multithreading and abstracting complex functionalities into classes with PowerShell.",
-        "Tags":  "Optimization, Multithreading, PowerShell, Classes",
+        "Speaker":  "Adam Driscoll",
+        "Name":  "Building a Custom PowerShell Host",
+        "Description":  "After listening, you\u0027ll be able to build a custom PowerShell host. ",
+        "Tags":  "PowerShell, .NET Framework, C#, Developer",
+        "Starts":  "2020-06-04 13:00:00",
+        "Ends":  "2020-06-04 14:00:00",
+        "Track":  "Leibniz Hall",
+        "Language":  "English"
+    },
+    {
+        "Speaker":  "Mathias R. Jessen",
+        "Name":  "I Compare: PowerShell Edition",
+        "Description":  "After this you\u0027ll know how sorting algorithms how, how to implement interfaces in PowerShell, and combining the two, be able to implement your own sorting algorithms!",
+        "Tags":  "Optimization, PowerShell, .NET Framework",
         "Starts":  "2020-06-04 14:15:00",
         "Ends":  "2020-06-04 15:15:00",
-        "Track":  "Leibniz Hall",
+        "Track":  "Blue Room",
         "Language":  "English"
     },
     {
@@ -510,12 +520,22 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "Mathias R. Jessen",
-        "Name":  "I Compare: PowerShell Edition",
-        "Description":  "After this you\u0027ll know how sorting algorithms how, how to implement interfaces in PowerShell, and combining the two, be able to implement your own sorting algorithms!",
-        "Tags":  "Optimization, PowerShell, .NET Framework",
+        "Speaker":  "Jan-Henrik Damaschke",
+        "Name":  "Bringing classes and runspaces together - Async logging in PowerShell",
+        "Description":  "After you watched this session you will have an understanding of multithreading and abstracting complex functionalities into classes with PowerShell.",
+        "Tags":  "Optimization, Multithreading, PowerShell, Classes",
         "Starts":  "2020-06-04 14:15:00",
         "Ends":  "2020-06-04 15:15:00",
+        "Track":  "Leibniz Hall",
+        "Language":  "English"
+    },
+    {
+        "Speaker":  "Arnaud Petitjean",
+        "Name":  "Building a secure Rest API to expose your passwords",
+        "Description":  "After this talk you will know which tool to use to create a REST API",
+        "Tags":  "Security, Network, Defense, Teamwork",
+        "Starts":  "2020-06-04 15:30:00",
+        "Ends":  "2020-06-04 16:30:00",
         "Track":  "Blue Room",
         "Language":  "English"
     },
@@ -530,22 +550,22 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "Arnaud Petitjean",
-        "Name":  "Building a secure Rest API to expose your passwords",
-        "Description":  "After this talk you will know which tool to use to create a REST API",
-        "Tags":  "Security, Network, Defense, Teamwork",
-        "Starts":  "2020-06-04 15:30:00",
-        "Ends":  "2020-06-04 16:30:00",
-        "Track":  "Blue Room",
-        "Language":  "English"
-    },
-    {
         "Speaker":  "Christoph Bergmeister",
         "Name":  "Building PowerShell, its VS-Code extension or PSScriptAnalyzer yourself and debugging it",
         "Description":  "Want a feature/change in PowerShell, it\u0027s VS-Code extension or PSSA? This session will get you ready to make the change yourself.",
         "Tags":  "Community, Tools, VSCode",
         "Starts":  "2020-06-04 15:30:00",
         "Ends":  "2020-06-04 16:30:00",
+        "Track":  "Leibniz Hall",
+        "Language":  "English"
+    },
+    {
+        "Speaker":  "Joey Aiello, Rob Holt",
+        "Name":  "Minimal PS/technical deep-dive ",
+        "Description":  "See how the PowerShell team works to make the PowerShell footprint smaller.",
+        "Tags":  "PowerShell",
+        "Starts":  "2020-06-04 16:45:00",
+        "Ends":  "2020-06-04 17:45:00",
         "Track":  "Leibniz Hall",
         "Language":  "English"
     },
@@ -570,14 +590,14 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "PowerShell Team",
-        "Name":  "MSFT2",
-        "Description":  "",
-        "Tags":  "",
-        "Starts":  "2020-06-04 16:45:00",
-        "Ends":  "2020-06-04 17:45:00",
-        "Track":  "Leibniz Hall",
-        "Language":  ""
+        "Speaker":  "Arnaud Petitjean",
+        "Name":  "Managing Access Permissions",
+        "Description":  "After attending this talk, you will have a better understanding of what ACLs are and how to manage them with PowerShell efficiently.",
+        "Tags":  "Security, Defense",
+        "Starts":  "2020-06-05 08:30:00",
+        "Ends":  "2020-06-05 09:30:00",
+        "Track":  "Blue Room",
+        "Language":  "English"
     },
     {
         "Speaker":  "Daniël Both",
@@ -590,12 +610,32 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "Arnaud Petitjean",
-        "Name":  "Managing Access Permissions",
-        "Description":  "After attending this talk, you will have a better understanding of what ACLs are and how to manage them with PowerShell efficiently.",
-        "Tags":  "Security, Defense",
+        "Speaker":  "Sydney Smith, Amber Erickson",
+        "Name":  "PowerShellGet 3.0",
+        "Description":  "Check out what\u0027s new in PowerShell Get 3.0",
+        "Tags":  "PowerShell, Web/Internet, Software Deployment",
         "Starts":  "2020-06-05 08:30:00",
         "Ends":  "2020-06-05 09:30:00",
+        "Track":  "Round Room",
+        "Language":  ""
+    },
+    {
+        "Speaker":  "Paul Broadwith",
+        "Name":  "Gone In 60 Reboots - Get Hours Of Your Life Back",
+        "Description":  "How to use Boxstarter and Chocolatey to gain many hours of your life back when you get that new computer.",
+        "Tags":  "Tools, Chocolatey, Software Deployment",
+        "Starts":  "2020-06-05 09:45:00",
+        "Ends":  "2020-06-05 10:45:00",
+        "Track":  "Round Room",
+        "Language":  "English"
+    },
+    {
+        "Speaker":  "Jakob Gottlieb Svendsen",
+        "Name":  "PowerShell on Raspberry PI - The making of my azure connected greenhouse.",
+        "Description":  "Watch a pretty cool setup of how to auto configure a raspberry pi to run any powershell code!",
+        "Tags":  "IoT, Cloud, Remoting, Fun",
+        "Starts":  "2020-06-05 09:45:00",
+        "Ends":  "2020-06-05 10:45:00",
         "Track":  "Blue Room",
         "Language":  "English"
     },
@@ -610,33 +650,13 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "Jakob Gottlieb Svendsen",
-        "Name":  "PowerShell on Raspberry PI - The making of my azure connected greenhouse.",
-        "Description":  "Watch a pretty cool setup of how to auto configure a raspberry pi to run any powershell code!",
-        "Tags":  "IoT, Cloud, Remoting, Fun",
-        "Starts":  "2020-06-05 09:45:00",
-        "Ends":  "2020-06-05 10:45:00",
-        "Track":  "Blue Room",
-        "Language":  "English"
-    },
-    {
-        "Speaker":  "Paul Broadwith",
-        "Name":  "Gone In 60 Reboots - Get Hours Of Your Life Back",
-        "Description":  "How to use Boxstarter and Chocolatey to gain many hours of your life back when you get that new computer.",
-        "Tags":  "Tools, Chocolatey, Software Deployment",
-        "Starts":  "2020-06-05 09:45:00",
-        "Ends":  "2020-06-05 10:45:00",
-        "Track":  "Round Room",
-        "Language":  "English"
-    },
-    {
-        "Speaker":  "Anthony Nocentino",
-        "Name":  "Using PowerShell Core Remoting in Cross-Platform Environments",
-        "Description":  "After this session you will be able to configure and use OpenSSH based PowerShell remoting to manage your cross platform systems.",
-        "Tags":  "Remoting, Linux, PowerShell, SSH",
+        "Speaker":  "Barbara Forbes",
+        "Name":  "Azure DevOps for PowerShell",
+        "Description":  "After this session you will have an understanding of what Azure DevOps has to offer and how it can be useful for you",
+        "Tags":  "Cloud, Introduction",
         "Starts":  "2020-06-05 11:00:00",
         "Ends":  "2020-06-05 12:00:00",
-        "Track":  "Blue Room",
+        "Track":  "Round Room",
         "Language":  "English"
     },
     {
@@ -650,13 +670,13 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "Barbara Forbes",
-        "Name":  "Azure DevOps for PowerShell",
-        "Description":  "After this session you will have an understanding of what Azure DevOps has to offer and how it can be useful for you",
-        "Tags":  "Cloud, Introduction",
+        "Speaker":  "Anthony Nocentino",
+        "Name":  "Using PowerShell Core Remoting in Cross-Platform Environments",
+        "Description":  "After this session you will be able to configure and use OpenSSH based PowerShell remoting to manage your cross platform systems.",
+        "Tags":  "Remoting, Linux, PowerShell, SSH",
         "Starts":  "2020-06-05 11:00:00",
         "Ends":  "2020-06-05 12:00:00",
-        "Track":  "Round Room",
+        "Track":  "Blue Room",
         "Language":  "English"
     },
     {
@@ -670,16 +690,6 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "Thorsten Butz",
-        "Name":  "Querying Wikidata with a glimpse of SPARQL",
-        "Description":  "After you wathched this, you will be able to embed  SPARQL queries inside your PowerShell code. ",
-        "Tags":  "Tools, Fun",
-        "Starts":  "2020-06-05 13:00:00",
-        "Ends":  "2020-06-05 14:00:00",
-        "Track":  "Round Room",
-        "Language":  "English"
-    },
-    {
         "Speaker":  "Mathias R. Jessen",
         "Name":  "PowerShell Porter: Common C# translation patterns",
         "Description":  "After watching this, you will be able to start porting C# to PowerShell!",
@@ -690,13 +700,23 @@
         "Language":  "English"
     },
     {
-        "Speaker":  "Anthony Allen",
-        "Name":  "Powerful Patterns For The PowerShell Programmer",
-        "Description":  "Leave this session having a solid understanding of some design patterns which can help solve real world problems.",
-        "Tags":  "Optimization, PowerShell, Developer, .NET Framework",
+        "Speaker":  "Thorsten Butz",
+        "Name":  "Querying Wikidata with a glimpse of SPARQL",
+        "Description":  "After you wathched this, you will be able to embed  SPARQL queries inside your PowerShell code. ",
+        "Tags":  "Tools, Fun",
+        "Starts":  "2020-06-05 13:00:00",
+        "Ends":  "2020-06-05 14:00:00",
+        "Track":  "Round Room",
+        "Language":  "English"
+    },
+    {
+        "Speaker":  "Sydney Smith",
+        "Name":  "Managing Secrets from your dev box to the cloud",
+        "Description":  "Learn how to manage secrets in a safe way in the cloud.",
+        "Tags":  "Security, Cloud",
         "Starts":  "2020-06-05 14:15:00",
         "Ends":  "2020-06-05 15:15:00",
-        "Track":  "Round Room",
+        "Track":  "Red Room",
         "Language":  "English"
     },
     {
@@ -707,6 +727,16 @@
         "Starts":  "2020-06-05 14:15:00",
         "Ends":  "2020-06-05 15:15:00",
         "Track":  "Blue Room",
+        "Language":  "English"
+    },
+    {
+        "Speaker":  "Anthony Allen",
+        "Name":  "Powerful Patterns For The PowerShell Programmer",
+        "Description":  "Leave this session having a solid understanding of some design patterns which can help solve real world problems.",
+        "Tags":  "Optimization, PowerShell, Developer, .NET Framework",
+        "Starts":  "2020-06-05 14:15:00",
+        "Ends":  "2020-06-05 15:15:00",
+        "Track":  "Round Room",
         "Language":  "English"
     }
 ]
